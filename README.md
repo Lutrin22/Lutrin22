@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lutrin22
 - 👀 I’m interested in all thing about Web Developing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : lutrin22@gmail.com
 
 <!---
